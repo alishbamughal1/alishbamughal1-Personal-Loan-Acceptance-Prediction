@@ -79,7 +79,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Download the dataset from the UCI repository
 2. Place `bank.csv` in the project directory
 3. Open the Jupyter Notebook:
